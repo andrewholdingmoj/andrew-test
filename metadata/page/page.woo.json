@@ -1,0 +1,14 @@
+{
+  "_id": "page.woo",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.woo--radios.auto_name__1",
+      "_isa": "radios.yes-no",
+      "_type": "radios",
+      "legend": "Are you feeling happy?",
+      "name": "happy"
+    }
+  ],
+  "url": "woo"
+}
